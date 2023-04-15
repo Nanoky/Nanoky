@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nanoky 
 - 👀 I’m interested in software engineering and clean code
-- 🌱 I’m currently learning ReactJS and UX/UI design
+- 🌱 I’m currently learning ReactJS, Angular and UX/UI design
 - 💞️ I’m looking to collaborate on cool stuff
 - 📫 How to reach me : konancharlesyao@gmail.com
 
