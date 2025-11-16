@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nanoky 
 - 👀 I’m interested in software engineering and clean code
-- 🌱 I’m currently using React, NestJS, React Native
+- 🌱 I’m currently using React, NestJS, React Native, Java
 - 💞️ I’m looking to collaborate on cool stuff
 - 📫 How to reach me : konancharlesyao@gmail.com / +2250779561161
 
